@@ -45,9 +45,6 @@ body {
   #nav-list li:nth-child(3) {
     border-bottom-width: 2px;
   }
-  .nav-link {
-      
-  }
   #nav-list p:hover {
     background: #E7E7E7;
   }
